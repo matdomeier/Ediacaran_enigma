@@ -1,5 +1,5 @@
 ## Ediacaran_enigma                    
-![image](https://github.com/user-attachments/assets/dbb85d79-3963-4994-998d-9bac9db707db)
+[![DOI](https://zenodo.org/badge/585202383.svg)](https://doi.org/10.5281/zenodo.14193165)
 
 This repository includes a set of codes that can be used to generate the simulations shown and described in:
 Domeier, M., Robert, B., Meert, J.G., Kulakov, E.V., McCausland, P.J.A., Trindade, R.I.F. and Torsvik, T.H. (2023) The enduring Ediacaran paleomagnetic enigma, Earth-Science Reviews, 242, 104444, DOI:10.1016/j.earscirev.2023.104444.
